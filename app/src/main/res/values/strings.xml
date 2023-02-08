@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Android Lab 1</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login_title">Login Activity</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="registration_title">Registration Activity</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="back">Back</string>
+    <string name="fill_fields_error">Fill all fields</string>
+    <string name="store_user_info_format">%s_%s</string>
+    <string name="delete_email_suffix">%s_</string>
+    <string name="home_title">Home Activity</string>
+    <string name="logout">Logout</string>
+    <string name="delete_account">Delete Acc</string>
+    <string name="error">Error</string>
+</resources>
