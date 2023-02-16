@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".LoginActivity">
+    tools:context=".ui.login.LoginActivity">
 
     <TextView
         android:layout_width="match_parent"
@@ -41,7 +41,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="@dimen/default_horizontal_margin"
-        android:layout_marginTop="@dimen/default_top_margin">
+        android:layout_marginTop="@dimen/default_top_margin"
+        android:gravity="center_vertical">
 
         <Button
             android:id="@+id/btn_login"
@@ -58,6 +59,14 @@
             android:layout_marginHorizontal="@dimen/default_horizontal_margin"
             android:layout_weight="1"
             android:text="@string/sign_up" />
+
+        <Button
+            android:id="@+id/btn_all_users"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/default_horizontal_margin"
+            android:layout_weight="1"
+            android:text="@string/all_users" />
 
     </LinearLayout>
 

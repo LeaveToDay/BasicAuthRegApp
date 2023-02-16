@@ -16,4 +16,10 @@
     <string name="logout">Logout</string>
     <string name="delete_account">Delete Acc</string>
     <string name="error">Error</string>
+    <string name="all_users_activity">All Users Activity</string>
+    <string name="email_holder">Email: %s</string>
+    <string name="name_holder">Name: %s</string>
+    <string name="age_holder">Age: %s</string>
+    <string name="id_holder">ID: %s</string>
+    <string name="all_users">All Users</string>
 </resources>
